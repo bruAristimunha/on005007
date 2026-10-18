@@ -1,6 +1,6 @@
 {
   "TaskName": "namingtask",
-  "SamplingFrequency": 1000,
+  "SamplingFrequency": 2000,
   "PowerLineFrequency": 60,
   "SoftwareFilters": "n/a",
   "Manufacturer": "n/a",

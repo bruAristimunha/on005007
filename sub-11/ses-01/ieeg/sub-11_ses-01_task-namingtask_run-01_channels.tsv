@@ -1,117 +1,126 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-A1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-B12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-B14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-B15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-C04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-C05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-C08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-C15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-C16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-D01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-D04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-D06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-D09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-D10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-E1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-E2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-E3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-E4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-E5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-E6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-F6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-G6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-H01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-H12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-H14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-H15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-H16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-I1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-I2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-I3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-I4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-I5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-I6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-J16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-K02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-K05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-K07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-K10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-L1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-L2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-L3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-L4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL ECG	ECG	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+EEG M2-Ref	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL M3	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL M4	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+EEG A1-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG A2-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL A3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL A4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL B12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL E	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL B14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL B15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL B16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL C02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL C04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL C05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL C08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL C11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL DC01	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL C13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL C14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL $B03	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL $B04	MISC	µV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL C15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL C16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL D01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL D04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL D06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL D09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL D10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL E1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL E2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL E3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL E4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL E5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL E6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F1-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F2-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F3-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F4-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F5-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+EEG F6-Ref	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL G6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL H01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL H12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL H14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL H15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL H16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL I1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL I2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL I3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL I4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL I5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL I6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J11	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J12	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J13	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J14	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J15	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL J16	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K01	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL K02	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K03	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K04	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL K05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+POL K07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL K10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL L1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL L2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL L3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+POL L4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a

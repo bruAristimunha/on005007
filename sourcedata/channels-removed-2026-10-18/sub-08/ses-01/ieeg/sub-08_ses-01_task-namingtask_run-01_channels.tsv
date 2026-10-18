@@ -1,0 +1,15 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
+F09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+F10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+G05	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+G06	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
+G07	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+G08	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+G09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+G10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+I09	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+I10	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+J5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+J6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+J7	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
+J8	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
