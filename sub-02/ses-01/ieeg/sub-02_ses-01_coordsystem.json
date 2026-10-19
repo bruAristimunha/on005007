@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "FreeSurfer average brain (fsaverage = MNI305) space, mm. Not stated in this deposit: established in round 5 because the x/y/z of this file are identical (to < 0.01 mm) for the listed contacts to the same patient's electrodes.tsv in the sibling deposit named in the evidence, whose coordsystem.json declares fsaverage / mm (OpenNeuro ds007118-20) or whose README declares MNI-305 (ds006234, ds006233, ds004551, ds005545, ds005931, ds006910, ds006914)."
+}
