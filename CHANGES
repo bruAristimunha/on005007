@@ -1,4 +1,5 @@
 Unreleased 2026-10-18
+  - 2026-10-19 electrode coordinate system: add coordsystem.json (fsaverage/mm) next to 4 electrodes.tsv; the frame is inferred from coordinate identity with other deposits of the same group and each file's description says so. README: section 'Electrode coordinate system'.
   - channels.tsv of 42 recordings = the data-file header channel list (name, order, count; matched by name): 4368 rows renamed to the header name, 1057 rows added, 55 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 41 files reordered. Before, mne_bids could not apply channels.tsv to these files (count or name mismatch).
   - sampling_frequency: 58 channels.tsv rows in 1 files and SamplingFrequency in 1 *_ieeg.json set to the rate of the data-file header (e.g. `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J5: 1000 -> 2000; `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J6: 1000 -> 2000; `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J7: 1000 -> 2000).
   - README: section 'Channel names follow the data headers'.

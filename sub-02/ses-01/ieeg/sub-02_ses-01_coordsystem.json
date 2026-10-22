@@ -1,5 +1,5 @@
 {
   "iEEGCoordinateSystem": "fsaverage",
   "iEEGCoordinateUnits": "mm",
-  "iEEGCoordinateSystemDescription": "FreeSurfer average brain (fsaverage = MNI305) space, mm. Not stated in this deposit: established in round 5 because the x/y/z of this file are identical (to < 0.01 mm) for the listed contacts to the same patient's electrodes.tsv in the sibling deposit named in the evidence, whose coordsystem.json declares fsaverage / mm (OpenNeuro ds007118-20) or whose README declares MNI-305 (ds006234, ds006233, ds004551, ds005545, ds005931, ds006910, ds006914)."
+  "iEEGCoordinateSystemDescription": "FreeSurfer average brain (fsaverage) space, mm. Not stated in this deposit; inferred, not documented: 47 of the 48 contacts of this file have x/y/z identical (compared to 0.001 mm) to sub-217/ses-01/ieeg/sub-217_ses-01_task-sleep_acq-A_run-01_electrodes.tsv in nemarDatasets/on007119 at commit c099745b, a deposit from the same group whose coordsystem.json declares fsaverage/mm. Positions do not attach to channels without a channel-to-contact name mapping."
 }

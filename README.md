@@ -28,4 +28,12 @@ electrodes.tsv is unchanged: it names the contacts (e.g. `A1`), while channel na
 
 sampling_frequency: 58 channels.tsv rows in 1 files and SamplingFrequency in 1 *_ieeg.json set to the rate of the data-file header (e.g. `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J5: 1000 -> 2000; `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J6: 1000 -> 2000; `sub-02_ses-01_task-namingtask_run-01_channels.tsv` POL J7: 1000 -> 2000).
 
-Check: read at the header rate, sub-02 shows its mains line at 50 Hz (16.3 dB above the neighbouring bins in the 18 Oct grid), the same line as the subjects recorded at 1000 Hz, so the header rate is the real one.
+Check (header level, 22 Oct 2026): the EDF header of `sub-02_ses-01_task-namingtask_run-01_ieeg.edf` gives a sampling rate of 2000 Hz (samples per data record divided by the record duration). After this change the sidecar SamplingFrequency and every channels.tsv sampling_frequency of that recording equal the header rate, as in the other 41 recordings.
+
+## Electrode coordinate system (19 Oct 2026; described 22 Oct 2026)
+
+A coordsystem.json (`fsaverage`, `mm`) was added next to 4 of the 42 electrodes.tsv. This deposit does not state a coordinate system, so the frame is inferred, not documented: in each of these 4 files, contacts have x/y/z identical (compared to 0.001 mm) to an electrodes.tsv of another deposit from the same group whose metadata declares the frame. Each sidecar's iEEGCoordinateSystemDescription names its source file, deposit and commit, and how many of its contacts are identical. The other 38 electrodes.tsv share no such identity and have no coordsystem.json.
+
+Reproducible check (22 Oct 2026): for each of the 4 electrodes.tsv, every contact's x/y/z was compared (to 0.001 mm) with every electrodes.tsv of other deposits from the same group at pinned nemarDatasets commits (on004551@c4c035f6, on004859@db21ebb2, on005545@948f2825, on005931@cbd529e5, on006107@b37dcbfc, on006233@396692f0, on006910@9eb96ebd, on006914@1956b035, on007118@8f2c41fa, on007119@c099745b, on007120@66296ebd). No file has all of its contacts identical to a single file of another deposit. All 4 match partly (3 with at least 89 % of contacts identical, 1 with 50-89 %, 0 below 50 %, 0 none).
+
+Limitation: these sidecars declare the frame and units only. electrodes.tsv is unchanged and no coordinate value changed. Positions do not attach to channels in mne_bids or EEGDash, because the channel names (data-header labels, e.g. prefixed labels or bipolar derivations) differ from the contact names in electrodes.tsv; a channel-to-contact mapping is not part of this change. This dataset mirrors OpenNeuro; the same change belongs upstream.
