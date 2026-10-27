@@ -10,7 +10,9 @@
     "Description": "sex of the participant as reported by the participant",
     "Levels": {
       "m": "male",
-      "f": "female"
+      "f": "female",
+      "F": "female",
+      "M": "male"
     },
     "Units": "",
     "TermURL": "http://www.todo.com/fixme"
@@ -20,7 +22,8 @@
     "Description": "handedness of the participant as reported by the participant",
     "Levels": {
       "l": "left",
-      "r": "right"
+      "r": "right",
+      "right": "right"
     },
     "Units": "",
     "TermURL": "http://www.todo.com/fixme"

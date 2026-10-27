@@ -1,4 +1,7 @@
 1.0.1 2026-10-22
+  - Add 3 unambiguous source-label alias encodings using existing category keys/definitions;
+    retain every original definition and all participant/electrode table bytes. No new clinical
+    meaning or data recoding. Exact original schema retained in sourcedata/enumeration-alias-originals.tar.gz.
   - Remove 1 empty Levels enumerations from participants.json; no defined categories
     or participant table values change. Exact source schema retained under
     sourcedata/participant-schema-before-empty-enum-fix/participants.json.
